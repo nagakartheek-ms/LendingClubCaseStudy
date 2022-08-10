@@ -1,48 +1,39 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club
+> EDA for the customer data of Lending Club which is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](#technologies-used)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.
+- The aim of the analysis is identify the factors causing risk of default to its lending business.
+- The data contains information about past loan applicants and whether they defaulted or not.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Around Around 14.6% of the loans are charged off on the whole.
+- Defaults are significantly higher in proportion for 60-month loan tenures 
+- Debt-to-Income ratio of defaulters is a bit higher.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.9.1
+- Pandas - version 1.2.3
+- NumPy - version 1.21.1
+- matplotlib - version 3.4.2
+- Seaborn - version 0.11.1
+- plotly - version 5.1.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@nagakartheek-ms] - feel free to contact me!
 
 
 <!-- Optional -->
